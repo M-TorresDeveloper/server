@@ -6,7 +6,7 @@ How to Run
 
 - ✔️ npm install to install dependencies
   
-- ✔️ npm build to generate files to production
+- ✔️ npm run build to generate files to production
 
 - ✔️ npm start to init server in production
 - 
